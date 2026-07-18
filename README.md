@@ -5,6 +5,7 @@
 ![Excel Dashboard](Excel_dashboard.png)
 
 ## Business Problem
+* Note: This project uses a public Kaggle dataset. The business scenario below was constructed to frame the analysis around a realistic use case.
 A SaaS company with 500 customers faces a 22% annual churn rate - 110 customers lost with no early warning system. This project builds a customer health scoring model and interactive dashboard to identify at-risk accounts before they cancel, enabling proactive retention efforts.
 
 ## Dataset
