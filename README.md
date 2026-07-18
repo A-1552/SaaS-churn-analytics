@@ -14,7 +14,7 @@ A SaaS company with 500 customers faces a 22% annual churn rate - 110 customers 
 
 ## Tools Used
 - SQL (MySQL) -  Built customer health score using VIEWs with weighted risk signals (satisfaction score, support ticket volume, churn history)
-- Excel — Risk scoring validation, pivot table analysis, conditional formatting, KPI dashboard
+- Excel -  Risk scoring validation, pivot table analysis, conditional formatting, KPI dashboard
 - Power BI - 2-page interactive dashboard with drill filters and slicers
 
 ## Key Findings
@@ -26,10 +26,10 @@ A SaaS company with 500 customers faces a 22% annual churn rate - 110 customers 
 
 ## Dashboard Structure
 
-### Page 1 — Executive Overview
+### Page 1 - Executive Overview
 KPI summary (ARR, MRR, churn rate, revenue at risk), customer status breakdown, revenue by plan tier and industry, and risk level distribution — built for leadership to assess overall business health at a glance.
 
-### Page 2 — At-Risk Customer Deep Dive
+### Page 2 -  At-Risk Customer Deep Dive
 Top 15 highest-revenue at-risk customers, churn reason breakdown, risk distribution by industry, customer health score distribution, and a filterable action list for the customer success team to prioritize outreach.
 
 ## Methodology
