@@ -5,7 +5,7 @@
 ![Excel Dashboard](Excel_dashboard.png)
 
 ## Business Problem
-A SaaS company with 500 customers faces a 22% annual churn rate — 110 customers lost with no early warning system. This project builds a customer health scoring model and interactive dashboard to identify at-risk accounts before they cancel, enabling proactive retention efforts.
+A SaaS company with 500 customers faces a 22% annual churn rate - 110 customers lost with no early warning system. This project builds a customer health scoring model and interactive dashboard to identify at-risk accounts before they cancel, enabling proactive retention efforts.
 
 ## Dataset
 - 500 SaaS customer accounts across 5 industries (DevTools, FinTech, HealthTech, Cybersecurity, EdTech)
@@ -18,11 +18,11 @@ A SaaS company with 500 customers faces a 22% annual churn rate — 110 customer
 - Power BI - 2-page interactive dashboard with drill filters and slicers
 
 ## Key Findings
-- 79 high-risk customers** identified, representing **$1.8M** in monthly revenue at risk
+- 79 high-risk customers identified, representing $1.8M in monthly revenue at risk
 - Features  is the #1 churn reason (114 customers), followed by Budget and Support issues
-- Low-risk customers generate 3x more ARR** than high-risk customers ($5.6M vs $1.8M)
-- DevTools and Cybersecurity industries** show the highest concentration of at-risk accounts
-- Customer health scores follow a clear distribution — most customers fall in the "Moderate" risk band, with a smaller "Critical" tail requiring immediate attention
+- Low-risk customers generate 3x more ARR than high-risk customers ($5.6M vs $1.8M)
+- DevTools and Cybersecurity industries show the highest concentration of at-risk accounts
+- Customer health scores follow a clear distribution - most customers fall in the "Moderate" risk band, with a smaller "Critical" tail requiring immediate attention
 
 ## Dashboard Structure
 
@@ -47,4 +47,4 @@ Combined into a 0-80 risk score, categorized into Low / Medium / High Risk bands
 - `/data` - Source CSV files (accounts, subscriptions, support tickets, feature usage, churn events)
 
 ## Resume Summary
-Built end-to-end SaaS churn analytics system for 500-customer dataset — engineered a custom customer health risk score using SQL VIEWs (weighted satisfaction, support ticket, and churn signals), validated with Excel pivot analysis, and developed a 2-page interactive Power BI dashboard identifying 79 high-risk customers representing $1.8M in monthly revenue at risk.
+Built end-to-end SaaS churn analytics system for 500-customer dataset - engineered a custom customer health risk score using SQL VIEWs (weighted satisfaction, support ticket, and churn signals), validated with Excel pivot analysis, and developed a 2-page interactive Power BI dashboard identifying 79 high-risk customers representing $1.8M in monthly revenue at risk.
